@@ -1,0 +1,14 @@
+﻿string
+for loop
+object
+method
+while loop
+instance
+private
+public
+static
+void
+conditional statement
+array
+class
+Switch

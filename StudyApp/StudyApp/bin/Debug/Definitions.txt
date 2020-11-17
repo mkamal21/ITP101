@@ -1,0 +1,14 @@
+﻿A whole number.
+A string of characters.
+A loop that has an initializer, a condition, and an iterator. It executes a specific number of times..
+An instance of a class.
+A function of the class.
+A loop that will run and execute statements based on set conditions. Such as if its boolean expression is true.
+Part of a class that has unique information and has properties and/or operations that identify it as part of a specific class.
+An access modifier that that is only accessible in the body of a class or struct in which they are declared.
+An access modifier with no restrictions. It is the most permissive access level.
+A modifier that declares a member to belong to the type itself rather than to a specific object.
+A return type that specifies that a method does not return a value.
+You can store multiple variables of the same type in this data structure.
+A blueprint for an object
+A type of statement that controls the logical flow of an application. It allows values within variable/expressions to control flow through cases.
