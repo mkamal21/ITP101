@@ -1,0 +1,7 @@
+C:\Users\mohka\source\repos\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\mohka\source\repos\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\mohka\source\repos\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\mohka\source\repos\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
+C:\Users\mohka\source\repos\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\mohka\source\repos\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\mohka\source\repos\Trivia\Trivia\obj\Debug\Trivia.pdb
